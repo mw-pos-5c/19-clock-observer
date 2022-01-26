@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d64fa9e8-ff2e-424e-817f-d72d1424cbc2": {
+      "ProjectGuid": "d64fa9e8-ff2e-424e-817f-d72d1424cbc2",
+      "DisplayName": "ClockObserver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
